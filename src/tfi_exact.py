@@ -6,7 +6,6 @@ The Hamiltonian reads
 """
 import numpy as np
 import scipy.sparse as sparse
-import scipy.sparse.linalg._eigen.arpack as arp
 import warnings
 import scipy.integrate
 
