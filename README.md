@@ -35,8 +35,8 @@ It is recommended to use a virtual environment (e.g., with `conda` or `venv`).
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-name>
+    git clone https://github.com/pllagunos/MPS-gradient-descent.git
+    cd MPS-gradient-descent
     ```
 
 2.  **Install dependencies:**
